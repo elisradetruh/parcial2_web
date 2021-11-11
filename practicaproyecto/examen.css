@@ -1,0 +1,21 @@
+*{
+	color: black;
+	
+
+}
+h1{
+	font-family: monospace;
+	text-align:center;
+	color:  #2326C5;
+}
+
+label{
+	
+	color: blue;
+	font-size: larger;
+}
+
+input{
+	font-size: medium;
+}
+
